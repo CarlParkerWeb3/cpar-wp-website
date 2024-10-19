@@ -1,0 +1,139 @@
+{
+"$schema": "https://schemas.wp.org/trunk/theme.json",
+"version": 3,
+"settings": {
+	"appearanceTools": true,
+	"border": {},
+	"color": {
+		"background": true,
+		"custom": true,
+		"customDuotone": false,
+		"customGradient": false,
+		"defaultDuotone": false,
+		"defaultGradients": false,
+		"defaultPalette": false,
+		"duotone": [],
+		"gradients": [],
+		"link": true,
+		"palette": [
+			{
+			"color": "#000000",
+			"name": "Primary",
+			"slug": "cpar-primary"
+			},
+			{
+			"color": "#404040",
+			"name": "Secondary",
+			"slug": "cpar-secondary"
+			},
+			{
+			"color": "#7f7f7f",
+			"name": "Tertiary",
+			"slug": "cpar-tertiary"
+			},
+			{
+			"color": "#22668D",
+			"name": "Action",
+			"slug": "cpar-action"
+			},
+			{
+			"color": "#bfbfbf",
+			"name": "Base",
+			"slug": "cpar-base"
+			},
+			{
+			"color": "#3d3d3d",
+			"name": "Content",
+			"slug": "cpar-content"
+			}
+		],
+		"text": true
+	},
+	"custom": {
+		"cpar-responsive": "calc(100vw - 320px) * .000785 + 62.5%",
+		"cpar-spacing": "calc(20px + 4vw)",
+		"cpar-spacing-2": "calc(2 * var(--wp--custom--cpar-spacing))",
+		"cpar-spacing-3": "calc(3 * var(--wp--custom--cpar-spacing))",
+		"cpar-spacing-5": "calc(5 * var(--wp--custom--cpar-spacing))"
+	},
+	"dimensions": {
+		"minHeight": true
+	},
+	"layout": {},
+	"position": {
+		"sticky": true
+	},
+	"shadow": {},
+	"spacing": {
+		"customSpacingSize": true,
+		"margin": true,
+		"padding": true,
+		"units": [ "px", "em", "rem", "vh", "vw", "%" ]
+	},
+	"typography": {
+		"customFontSize": true,
+		"dropCap": true,
+		"fontStyle": true,
+		"fontWeight": true,
+		"letterSpacing": true,
+		"lineHeight": false,
+		"textColumns": false,
+		"textDecoration": true,
+		"textTransform": true,
+		"writingMode": false,
+		"fluid": true,
+		"fontFamilies": [
+			{
+			"name": "Inter",
+			"slug": "cpar-font-inter",
+			"fontFamily": "'Inter', sans-serif",
+			"fontFace": [
+				{
+				"fontFamily": "Inter",
+				"fontWeight": "100 900",
+				"fontStyle": "normal",
+				"fontStretch": "normal",
+				"src": [ "file:./assets/fonts/inter.ttf" ]
+				}
+			]
+			}
+		]
+	},
+	"useRootPaddingAwareAlignments": true,
+	"blocks": {}
+},
+"styles": {
+	"background": {
+		"backgroundImage": {
+			"url": ""
+		},
+		"backgroundPosition": "center center",
+		"backgroundRepeat": "no-repeat",
+		"backgroundSize": "cover"
+	},
+	"color": {
+		"background": "#ffffff",
+		"text": "var(--wp--preset--color--cpar-content)"
+	},
+	"spacing": {
+		"margin": {
+			"top": "0",
+			"bottom": "0",
+			"left": "0",
+			"right": "0"
+		},
+		"padding": {
+			"top": "0",
+			"bottom": "0",
+			"left": "0",
+			"right": "0"
+		}
+	},
+	"typography": {
+		"fontFamily": "Inter",
+		"fontSize": {}
+	}
+},
+"patterns": [],
+"templateParts": []
+}

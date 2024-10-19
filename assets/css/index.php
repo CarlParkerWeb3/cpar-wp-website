@@ -1,10 +1,10 @@
 <?php
 
 /*
- *   CPAR STARTER: Security Blanket
+ *   CPAR WEBSITE: Security Blanket
  *
- *   Author:     Carl A. Parker
- *   Website:    https://CarlParker.dev
+ *   Author:   Carl A. Parker
+ *   Website:  https://CarlParker.dev
 */
 
 if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>

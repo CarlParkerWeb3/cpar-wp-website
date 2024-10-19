@@ -1,4 +1,4 @@
-=== CPAR WP WEBSITE ===
+=== CPAR WEBSITE ===
 
 a WordPress Hybrid Theme for building custom websites w/ ACF Pro
 
@@ -13,6 +13,6 @@ a WordPress Hybrid Theme for building custom websites w/ ACF Pro
 
 == CHANGELOG ==
 
-== v1.0.0 == October 20, 2024
+== v1.0 == October 20, 2024
 
 - initial release

@@ -10,7 +10,7 @@
 if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
 
-<aside data-cpar-region="panel-mobile">
+<aside data-cpar-element="panel-mobile">
 
      <div class="cpar-panel-container">
 

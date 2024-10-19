@@ -14,13 +14,17 @@ if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
 <!-- CPAR LAYOUT -->
 
-<div data-cpar-layout="full">
+<div data-cpar-layout="default">
 
      <?php get_template_part( CPAR_LAYOUTS . 'header' ); ?>
 
      <main data-cpar-region="main">
 
-          <?php the_content(); ?>
+          <div class="main-content">
+
+               <?php the_content(); ?>
+
+          </div>
 
      </main>
 

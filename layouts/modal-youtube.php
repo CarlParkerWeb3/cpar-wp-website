@@ -10,7 +10,7 @@
 if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
 
-<aside data-cpar-region="modal-youtube" style="display:none">
+<aside data-cpar-element="modal-youtube" style="display:none">
 
      <div class="cpar-modal-background"></div>
 

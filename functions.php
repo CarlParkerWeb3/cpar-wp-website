@@ -85,7 +85,7 @@ if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN
 
      function cpar_theme_helpers() {
 
-          foreach ( glob( CPAR_THEME_PATH . CPAR_HELPERS . '*.php' ) as $helper ) :
+          foreach ( glob( CPAR_THEME_PATH . CPAR_HELPERS . 'help_*.php' ) as $helper ) :
 
                require_once $helper;
 

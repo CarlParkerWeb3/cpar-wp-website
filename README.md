@@ -1,11 +1,11 @@
 === CPAR WP WEBSITE ===
 
-a starter WordPress Hybrid Theme for building custom websites w/ ACF Pro
+a WordPress Hybrid Theme for building custom websites w/ ACF Pro
 
 
 == LINKS ==
 
-* [My Github](https://github.com/CarlParkerWeb3)
+* [My Github](https://carlparker.dev)
 
 * [WordPress](https://codex.wordpress.org/)
 * [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/resources/)

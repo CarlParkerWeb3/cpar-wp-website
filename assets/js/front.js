@@ -8,7 +8,7 @@
 jQuery( document ).ready( function( $ ) {
 
      if ( $( '[data-cpar-element^="panel"]' ).length ) {
-
+alert('YES');
           // CONFIGS
 
           var panelSpeed = 375;
